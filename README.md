@@ -1,2 +1,49 @@
-# gitBasics
-Overview for a specific share project
+# Git Basics
+Overview for a specific shared project
+
+---
+###### show overview
+```
+git status
+```
+---
+###### 
+```
+
+```
+---
+###### 
+```
+
+```
+---
+###### 
+```
+
+```
+---
+###### 
+```
+
+```
+---
+###### 
+```
+
+```
+---
+###### 
+```
+
+```
+---
+###### 
+```
+
+```
+---
+###### 
+```
+
+```
+

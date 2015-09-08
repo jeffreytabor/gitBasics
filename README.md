@@ -8,7 +8,7 @@ git status
 ```
 ---
 ###### Create a branch to work on a new feature
-* ###### *(Note: a branch can be created from a branch.)*
+###### * *(Note: a branch can be created from a branch.)*
 ```
 git branch descriptiveBranchName
 ```

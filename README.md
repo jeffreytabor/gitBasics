@@ -1,23 +1,23 @@
 # Git Basics:
-show overview and outstanding tasks.
+Show overview and outstanding tasks.
 ```
 git status
 ```
 ##### Create a branch to work on a new feature.
-*Note: a branch can be created from a branch.*
+*Note: A branch can be created from a branch.*
 ```
 git branch descriptiveBranchName
 ```
 ##### Start using a branch.
-*Note: there will be only one copy of the folder structure on your computer, by checking out a branch, it uses, "Context Switching" to modify the same files without touching the other versions that live in the same path of the folder structure.*
+*Note: There will be only one copy of the folder structure on your computer, by checking out a branch, it uses, "Context Switching" to modify the same files without touching the other versions that live in the same path of the folder structure.*
 
-*Note: switching to a new branch without commiting will warn you of losing changes first.*
+*Note: Switching to a new branch without commiting will warn you of losing changes first.*
 
 *Note: You can switch to a new branch if things are, "Mostly Clean", meaning a new file has been created but not commited. The new file will just show up after switching to the new branch.*
 ```
 git checkout descriptiveBranchName
 ```
-##### display branches, with Asterix by branch in use.
+##### Display branches, with Asterix by branch in use.
 ```
 git branch
 ```
@@ -56,7 +56,7 @@ git branch --merged
 git branch -m branchOne branchTwo
 ```
 ##### To remove a branch.
-*Note: the --delete flag can be used in place of the -d flag.*
+*Note: The --delete flag can be used in place of the -d flag.*
 ```
 git branch -d branchOne
 ```
